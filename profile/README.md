@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="nexploy-banner.svg" alt="Nexploy — Self-hosted deployment platform for Docker" width="100%" />
+  <a href="https://nexploy.app">
+    <img src="nexploy-banner.svg" alt="Nexploy — Self-hosted deployment platform for Docker" width="100%" />
+  </a>
 </p>
 
 <p align="center">
