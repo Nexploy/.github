@@ -1,7 +1,6 @@
-<h1 align="center">
-  <img src="https://github.com/Nexploy.png" width="80" alt="Nexploy logo" /><br />
-  Nexploy
-</h1>
+<p align="center">
+  <img src="./profile/nexploy-banner.svg" alt="Nexploy — Self-hosted deployment platform for Docker" width="100%" />
+</p>
 
 <p align="center">
   <strong>Self-hosted deployment platform for Docker</strong><br />
