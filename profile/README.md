@@ -23,9 +23,9 @@
 
 ---
 
-Nexploy deploys applications straight from GitHub/GitLab into Docker containers, fronted by Traefik with automatic HTTPS — no third-party cloud required.
+Nexploy deploys applications straight from GitHub, GitLab, Gitea, Bitbucket or Azure Repos into Docker containers, fronted by Traefik with automatic HTTPS — no third-party cloud required.
 
-- **Git Integration** — Deploy from GitHub and GitLab with OAuth
+- **Git Integration** — GitHub (GitHub App), GitLab, Gitea, Bitbucket and Azure Repos, with OAuth, auto-configured webhooks, commit statuses and releases — including self-hosted GitLab and Gitea instances
 - **Automated Build Pipeline** — Resumable, step-by-step builds with real-time log streaming
 - **Docker Management** — Containers, images, volumes, and networks from one dashboard
 - **Traefik Reverse Proxy** — Automatic routing and Let's Encrypt SSL
