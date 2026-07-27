@@ -1,7 +1,7 @@
 <svg width="1280" height="384" viewBox="0 0 1280 384" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Nexploy — the self-hosted alternative to Vercel and Netlify, powered by Docker">
   <defs>
     <clipPath id="round"><rect width="1280" height="384" rx="20"/></clipPath>
-    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse" patternTransform="translate(19 64)">
       <circle cx="1" cy="1" r="1" fill="#FFFFFF" fill-opacity="0.09"/>
     </pattern>
     <radialGradient id="hubGlow" cx="0.5" cy="0.5" r="0.5">
@@ -21,7 +21,7 @@
 
   <g clip-path="url(#round)">
     <rect width="1280" height="384" fill="#0A0A0A"/>
-    <rect width="1280" height="384" fill="url(#dots)"/>
+    <rect x="19" y="64" width="1242" height="302" fill="url(#dots)"/>
     <ellipse cx="640" cy="158" rx="440" ry="190" fill="url(#hubGlow)"/>
     <ellipse cx="640" cy="0" rx="640" ry="150" fill="url(#topGlow)"/>
 
