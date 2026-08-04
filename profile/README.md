@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://github.com/Nexploy/nexploy"><img src="https://img.shields.io/github/stars/Nexploy/nexploy?style=flat&color=blue" alt="Stars" /></a>
   <a href="https://github.com/Nexploy/nexploy/actions"><img src="https://img.shields.io/github/actions/workflow/status/Nexploy/nexploy/release.yml" alt="Build status" /></a>
+  <a href="https://hub.docker.com/r/nexploy/nexploy"><img src="https://img.shields.io/docker/pulls/nexploy/nexploy?logo=docker&logoColor=white&color=2496ED" alt="Docker pulls" /></a>
   <a href="https://github.com/Nexploy/nexploy/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Nexploy/nexploy" alt="License" /></a>
   <img src="https://img.shields.io/badge/node-%3E%3D22.13-339933?logo=node.js&logoColor=white" alt="Node version" />
 </p>
