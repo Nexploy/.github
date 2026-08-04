@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/Nexploy/nexploy"><img src="https://img.shields.io/github/stars/Nexploy/nexploy?style=flat&color=blue" alt="Stars" /></a>
-  <a href="https://github.com/Nexploy/nexploy/actions"><img src="https://img.shields.io/github/actions/workflow/status/Nexploy/nexploy/release.yml?branch=main" alt="Build status" /></a>
+  <a href="https://github.com/Nexploy/nexploy/actions"><img src="https://img.shields.io/github/actions/workflow/status/Nexploy/nexploy/release.yml" alt="Build status" /></a>
   <a href="https://github.com/Nexploy/nexploy/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Nexploy/nexploy" alt="License" /></a>
   <img src="https://img.shields.io/badge/node-%3E%3D22.13-339933?logo=node.js&logoColor=white" alt="Node version" />
 </p>
@@ -33,7 +33,7 @@ Nexploy deploys applications straight from GitHub, GitLab, Gitea, Bitbucket or A
 - **Encrypted Environment Variables** — AES-256-CBC at rest
 - **In-browser Terminal** — WebSocket-powered Docker container terminal
 - **Two-Factor Authentication** — TOTP with backup codes
-- **Multi-language** — English and French
+- **Multi-language** — English, French, Italian and Spanish
 
 ## Tech Stack
 
